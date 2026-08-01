@@ -1,6 +1,6 @@
 # GenAI ADVNETS
 
-Material utilizado na disciplina **GENERATIVE AI & ADAVANCED NETS** da FIAP.
+Material utilizado na disciplina **REDES NEURAIS ARTIFICIAIS, DEEP LEARNING E ALGORITMOS GENÉTICOS** da FIAP.
 
 ## Aulas
 

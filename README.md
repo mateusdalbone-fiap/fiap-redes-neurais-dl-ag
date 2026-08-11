@@ -9,11 +9,11 @@ Material utilizado na disciplina **REDES NEURAIS ARTIFICIAIS, DEEP LEARNING E AL
 
 ## Aulas
 
-| Aula | Notebook | Colab |
+| Tópico | Notebook | Colab |
 |------|:--------:|:------:|
 | 01 - Diagnóstico e Regularização | [Notebook](./notebooks-aulas/01_03082026_Diagnostico_Regularizacao_Redes_Neurais_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/notebooks-aulas/01_03082026_Diagnostico_Regularizacao_Redes_Neurais_DL_AG_SKLT.ipynb) |
 | ↳ Checkpoint para iniciar a Aula 02| [Notebook](./checkpoints/[checkpoint_aula_1end_2start]_01_10082026_Diagnostico_Regularizacao_Redes_Neurais_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/checkpoints/%5Bcheckpoint_aula_1end_2start%5D_01_10082026_Diagnostico_Regularizacao_Redes_Neurais_DL_AG_SKLT.ipynb) |
-| 02 - Redes Neurais Convolucionais (CNN) |[Notebook](./notebooks-aulas/02_10082026_CNN_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/notebooks-aulas/02_10082026_CNN_DL_AG_SKLT.ipynb) |
+| 02 - Redes Neurais Convolucionais (CNN) e Transfer Learning |[Notebook](./notebooks-aulas/02_10082026_CNN_Transfer_Learning_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/notebooks-aulas/02_10082026_CNN_Transfer_Learning_DL_AG_SKLT.ipynb) |
 | 03 - | | |
 | 04 - | | |
 | 05 - | | |

@@ -23,6 +23,7 @@ Material utilizado na disciplina **REDES NEURAIS ARTIFICIAIS, DEEP LEARNING E AL
 | ↳ Checkpoint para iniciar a Aula 04| [Notebook](./checkpoints/[checkpoint_aula_3end_4start]02_24082026_CNN_Transfer_Learning_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/checkpoints/[checkpoint_aula_3end_4start]02_24082026_CNN_Transfer_Learning_DL_AG_SKLT.ipynb) |
 | 03 - Redes Neurais Recorrentes (RNN) e Long Short-Term Memory (LSTM)|[Notebook](./notebooks-aulas/03_24082026_RNN_LSTM_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/notebooks-aulas/03_24082026_RNN_LSTM_DL_AG_SKLT.ipynb) |
 | ↳ Checkpoint para iniciar a Aula 05| [Notebook](./checkpoints/[checkpoint_aula_4end_5start]03_24082026_RNN_LSTM_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/checkpoints/[checkpoint_aula_4end_5start]03_24082026_RNN_LSTM_DL_AG_SKLT.ipynb) |
+| ↳ Versão Final da Aula 05 |[Notebook](./notebooks-finais/[final_aula_5]03_24082026_RNN_LSTM_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/notebooks-finais/[final_aula_5]03_24082026_RNN_LSTM_DL_AG_SKLT.ipynb) |
 | 04 - Arquiteturas Híbridas: MobileNetV2 + LSTM + YOLO para Análise Temporal de Acidentes |[Notebook](./notebooks-aulas/04_31082026_ARQ_HIB_CNN_LSTM_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/notebooks-aulas/04_31082026_ARQ_HIB_CNN_LSTM_DL_AG_SKLT.ipynb) |
 | ↳ Checkpoint para iniciar a Aula 06| [Notebook](./checkpoints/[checkpoint_aula_5end_6start]04_31082026_ARQ_HIB_CNN_LSTM_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/checkpoints/[checkpoint_aula_5end_6start]04_31082026_ARQ_HIB_CNN_LSTM_DL_AG_SKLT.ipynb) |
 | 05 - | | |
@@ -30,7 +31,6 @@ Material utilizado na disciplina **REDES NEURAIS ARTIFICIAIS, DEEP LEARNING E AL
 | 07 - | | |
 
 ---
-
 
 
 

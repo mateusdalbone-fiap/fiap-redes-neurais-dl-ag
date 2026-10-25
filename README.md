@@ -31,7 +31,7 @@ Material utilizado na disciplina **REDES NEURAIS ARTIFICIAIS, DEEP LEARNING E AL
 | 05 - Otimização de Hiperparâmetros |[Notebook](./notebooks-aulas/05_21092026_OTIM_PARAM_CNN_LSTM_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/notebooks-aulas/05_21092026_OTIM_PARAM_CNN_LSTM_DL_AG_SKLT.ipynb) |
 | ↳ Checkpoint para iniciar a Aula 08| [Notebook](./checkpoints/[checkpoint_aula_7end_8start]05_21092026_OTIM_PARAM_CNN_LSTM_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/checkpoints/[checkpoint_aula_7end_8start]05_21092026_OTIM_PARAM_CNN_LSTM_DL_AG_SKLT.ipynb) |
 | 06 - Aprendizado por Reforço |[Notebook](./notebooks-aulas/06_24092026_RL_DL_AG_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/notebooks-aulas/06_24092026_RL_DL_AG_SKLT.ipynb) |
-| 07 - Revisão Geral| |https://docs.google.com/presentation/d/124GonObVajm-rWQzFma8l_mxHjhmjlYODevXb4m2NMo/edit?slide=id.ha87bc66a7121bab_1_55#slide=id.ha87bc66a7121bab_1_55 |
+| 07 - Revisão Geral| https://github.com/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/resources/Revis%C3%A3o%20Final%20-%20Redes%20Neurais%2C%20Deep%20Learning%20e%20Algoritmos%20Gen%C3%A9ticos.pdf |https://docs.google.com/presentation/d/124GonObVajm-rWQzFma8l_mxHjhmjlYODevXb4m2NMo/edit?slide=id.ha87bc66a7121bab_1_55#slide=id.ha87bc66a7121bab_1_55 |
 
 
 ---
